@@ -5,3 +5,5 @@ bye
 yay
 chips
 fries
+sushi
+steak
